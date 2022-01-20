@@ -1,6 +1,6 @@
 var x;
 var cols, rows;
-var w = 40;
+var w = 20;
 var grid = [];
 var current;
 var stack = [];
